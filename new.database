@@ -1,0 +1,4 @@
+id,firstname,lastname,username,email,password
+
+0,string,string,string,string,0
+0,string,string,string,string,0
